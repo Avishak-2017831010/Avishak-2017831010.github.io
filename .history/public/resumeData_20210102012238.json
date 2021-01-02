@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name":"Avishak",
+    "occupation":"Student",
+    "description":"I am fond of working with Android and Frontend web development",
+    "image":"profilepic.jpg",
+    "bio":"Curious to know about new technologies and love to play Piano and sing.Much Confusing and emotional human being. Interested about getting familiar with new people and work with them. Always try to think about new ideas that can make some good changes to the society.",
+    "contactmessage":"You can contact with me using linkedin or facebook or email me",
+    "email": "avicb98@gmail.com",
+    "phone": "+8801710227814",
+    "address":{
+      "street":"Dariapara",
+      "city":"Sylhet,",
+      "state":"Sylhet Sadar",
+      "zip": "3100"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/avishak.aurgho.cb",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/AvishakChakrob3",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/avishak-chakroborty-03aa5b1b7/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Avishak-2017831010",
+        "className":"fa fa-github"
+      }
+      
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Shahjalal University of Science & Technology",
+        "degree":"Studying BSC. in Software Engineering",
+        "graduated":"From January 2018",
+        "description":"Developed two desktop games(Snake and Chess Club) and one Android Application(Bohon) as academic projects. Recently working with MERN stack web development."
+      },
+      {
+        "school":"Murarichand College",
+        "degree":"HSC",
+        "graduated":"August 2017",
+        "description":"Regional 2nd runners up in the National Physics Olympiad, 1st runners up in the Regional Science Olympiad and the Regional Bangla language competetion"
+      }
+    ],
+    "work":[
+      {
+        "company":"No work experience yet"
+      }
+      
+    ],
+    "skills":[
+      {
+        "name":"Android",
+        "level":"65%"
+      },
+      {
+        "name":"Adobe Xd",
+        "level":"40%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Node",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Bohon",
+        "category":"Real time truck booking app",
+        "image":"bohon.png",
+        "url":"https://github.com/Avishak-2017831010/Bohon"
+      }, 
+      {
+        "title":"Chess Club",
+        "category":"A simple multiplayer chess application for desktop built using JAVA Fx",
+        "image":"chess.png",
+        "url":"https://github.com/Avishak-2017831010/Java_Game_project_2-1"
+      },
+      {
+        "title":"Ping Pong",
+        "category":"A simple automated Ping pong game application for desktop made using C++",
+        "image":"pingpong.png",
+        "url":"https://github.com/Avishak-2017831010/Game-project-2"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
